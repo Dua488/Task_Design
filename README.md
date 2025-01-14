@@ -59,12 +59,17 @@ This project uses the following third-party packages:
 - **flutter**: For building the UI.
 - **intl**: For date and time formatting.
 - **provider**: For state management.
-- Set up necessary dependencies in pubspec.yaml:
-**dependencies:
+
+  
+Set up necessary dependencies in pubspec.yaml:
+```bash
+   dependencies:
   flutter:
     sdk: flutter
   provider: ^6.0.3  
-  intl: ^0.18.0 **    
+  intl: ^0.18.0 
+   ```
+
 
 Ensure all dependencies are installed by running `flutter pub get`.
 
