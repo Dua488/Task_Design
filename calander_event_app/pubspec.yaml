@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   provider: ^6.0.3  # for state management
   intl: ^0.18.0     # for time formatting
+  table_calendar: ^3.0.9
 
 dev_dependencies:
   flutter_test:
